@@ -1,0 +1,12 @@
+#root {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 16px;
+}
